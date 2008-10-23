@@ -23,13 +23,13 @@ msgstr ""
 # type: Content of: <book><info><keywordset><keyword>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:7 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:8 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:39 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:45
 #, no-wrap
-msgid "ハードウェアマニュアル"
+msgid "Hardware Manual"
 msgstr ""
 
 # type: Content of: <book><info><cover><orgname><link>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:11 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:28
 #, no-wrap
-msgid "株式会社アットマークテクノ"
+msgid "Atmark Techno, Inc."
 msgstr ""
 
 # type: Content of: <book><info><author><address><postcode>
@@ -42,7 +42,7 @@ msgstr ""
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:12
 #, no-wrap
 msgid "札幌市中央区北5条東2丁目AFTビル6F"
-msgstr ""
+msgstr "AFT BLDG. 6F, N5E2 Chuo-ku, Sapporo, 060-0035 Japan"
 
 # type: Content of: <book><info><author><address><phone>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:13
@@ -72,7 +72,7 @@ msgstr ""
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:32
 #, no-wrap
 msgid "SUZAKU公式サイト"
-msgstr ""
+msgstr "SUZAKU Offical Site"
 
 # type: Content of: <book><info><keywordset><keyword>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:44
@@ -102,7 +102,7 @@ msgstr ""
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:63
 #, no-wrap
 msgid "初版作成"
-msgstr ""
+msgstr "First publication"
 
 # type: Content of: <book><info><revhistory><revision><revnumber>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:70
@@ -120,7 +120,7 @@ msgstr ""
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:74
 #, no-wrap
 msgid "誤記訂正"
-msgstr ""
+msgstr "Correction of miscellaneous errors"
 
 # type: Content of: <book><info><revhistory><revision><revnumber>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:80
