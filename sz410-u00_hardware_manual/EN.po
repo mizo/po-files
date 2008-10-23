@@ -23,14 +23,14 @@ msgstr ""
 # type: Content of: <book><info><keywordset><keyword>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:7 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:8 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:39 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:45
 #, no-wrap
-msgid "Hardware Manual"
-msgstr ""
+msgid "ハードウェアマニュアル"
+msgstr "Hardware Manual"
 
 # type: Content of: <book><info><cover><orgname><link>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:11 sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:28
 #, no-wrap
-msgid "Atmark Techno, Inc."
-msgstr ""
+msgid "株式会社アットマークテクノ"
+msgstr "Atmark Techno, Inc."
 
 # type: Content of: <book><info><author><address><postcode>
 #: sz410-u00_hardware_manual//sz410-u00_hardware_manual.xml:12
